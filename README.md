@@ -1,5 +1,5 @@
 # Telco-Data-Cleansing
-<p>Cleansing a Telco Data</p>
+<p>Cleansing a Telecommunication Company Data using Pandas, Matplotlib and Sea</p>
 <p>Libraries Used In this analysis, several packages will be used to help us perform data analysis.
 
 1. Pandas
