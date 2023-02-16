@@ -1,4 +1,7 @@
 # Telco-Data-Cleansing
+
+<p>The URL below is the python code I’ve created to perform simple data cleansing project on a Telecommunication Company Data. The dataset is unstructured data, so I manipulate it using Pandas, Matplotlib and Seaborn, thus it provides insights.
+</p>
 <p>Cleansing a Telecommunication Company Data using Pandas, Matplotlib and Seaborn.</p>
 <p>Libraries Used In this analysis, several packages will be used to help us perform data analysis.
 
